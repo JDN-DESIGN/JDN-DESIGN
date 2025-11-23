@@ -1,22 +1,39 @@
-## Hi there 👋
+**JDN-DESIGN AND BRAND DEVELOPMENT**
+Hi I am Jewel
+This project showcases a curated selection of my professional graphic design work, including brand identity, logo design, social media graphics, marketing materials, and vector illustrations. I work with industry-standard tools such as Adobe Illustrator, Photoshop, Canva, and Figma, focusing on clean layouts, modern aesthetics, and client-centered design solutions.
 
+What’s Included
 
-**JDN-DESIGN/JDN-DESIGN**
+✔ Logo Design (modern, minimal, lettermark, abstract)
 
- I am jewel, graphic design consultant and brand developer.
-I will provide : 
- # master editable files (AI, PSD, Figma-export, .sketch)
-  /ai/             # .ai files
-  /psd/
-/exports/          # final deliverables (PNGs, JPGs, PDFs)
-  /web/
-  /print/
-/mockups/          # high-res mockups
-/docs/             # brand guidelines, fonts list, licenses
-/assets/           # fonts (if license allows), icons, textures
-/.github/          # workflows, ISSUE_TEMPLATES (optional)
-/README.md
-/.gitignore
-/.gitattributes
+✔ Brand Identity & Visual Guidelines
+
+✔ Social Media Creatives (posts, ads, banners)
+
+✔ Flyer & Brochure Layouts (A4 & digital formats)
+
+✔ Product Listing Graphics
+
+✔ Vector Art & Illustration
+
+✔ Canva & Figma Editable Projects
+
+Design Approach
+
+I combine creativity with a strategic mindset—ensuring every design communicates effectively, follows brand principles, and delivers a polished visual experience. Each folder includes high-quality previews and source files for reference.
+
+Tools & Skills
+
+Adobe Illustrator
+
+Adobe Photoshop
+
+Canva
+
+Figma
+
+Vector Design
+
+Branding & Layout Design
 ![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/ba23a087d2d29fbd5102cdc66e3f14619e6242fa/Pattern%20illustration%20V06.jpg)
 -->
