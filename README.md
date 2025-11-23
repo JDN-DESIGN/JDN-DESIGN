@@ -18,4 +18,5 @@ I will provide :
 /README.md
 /.gitignore
 /.gitattributes
+![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/ba23a087d2d29fbd5102cdc66e3f14619e6242fa/Pattern%20illustration%20V06.jpg)
 -->
