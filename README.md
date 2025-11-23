@@ -3,7 +3,7 @@
 
 **JDN-DESIGN/JDN-DESIGN**
 
-/source/           # master editable files (AI, PSD, Figma-export, .sketch)
+/source/           I am jewel, graphic design consultant and brand developer # master editable files (AI, PSD, Figma-export, .sketch)
   /ai/             # .ai files
   /psd/
 /exports/          # final deliverables (PNGs, JPGs, PDFs)
