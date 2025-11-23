@@ -25,7 +25,8 @@ Vector Design
 Product listing
 Branding & Layout Design.
 
-![image alt]([https://github.com/JDN-DESIGN/JDN-DESIGN/blob/30876aba1d1a6502471b2769bdf1a019d487dc5b/Header%20and%20Project%20Alabama%20Map%20illustration.jpg](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/d9edb1a53f818d6201f129e93606b5bf93aa25ad/JDN%20DESIGN.jpg)
+![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/d9edb1a53f818d6201f129e93606b5bf93aa25ad/JDN%20DESIGN.jpg)
+
 **Profile Link**
 
 [Your Link Here](https://www.freelancer.com/u/jewelshah07)
