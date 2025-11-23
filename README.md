@@ -4,23 +4,12 @@ Hi I am Jewel
 
 This project showcases a curated selection of my professional graphic design work, including brand identity, logo design, social media graphics, marketing materials, and vector illustrations. I work with industry-standard tools such as Adobe Illustrator, Photoshop, Canva, and Figma, focusing on clean layouts, modern aesthetics, and client-centered design solutions.
 
-What’s Included:
+![image alt]([https://github.com/JDN-DESIGN/JDN-DESIGN/blob/ba23a087d2d29fbd5102cdc66e3f14619e6242fa/Pattern%20illustration%20V06.jpg](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/33fa22873ff6d2d27263a4a66ac7497deb687178/Header%20and%20Project%20Alabama%20Map%20illustration.jpg))
 
-✔ Logo Design (modern, minimal, lettermark, abstract)
+Review Link:
+https://www.freelancer.com/projects/graphic-design/Project-for-Mdjuyel-36938612/reviews
 
-✔ Brand Identity & Visual Guidelines
-
-✔ Social Media Creatives (posts, ads, banners)
-
-✔ Flyer & Brochure Layouts (A4 & digital formats)
-
-✔ Product Listing Graphics
-
-✔ Vector Art & Illustration
-
-✔ Canva & Figma Editable Projects
-
-I combine creativity with a strategic mindset—ensuring every design communicates effectively, follows brand principles, and delivers a polished visual experience. Each folder includes high-quality previews and source files for reference.
+I work continuously with a long-term client from Freelancer.com, creating a variety of professional graphics including custom map illustrations, Facebook header designs, and event program layouts. All designs are crafted using Adobe Illustrator, Photoshop, and Canva, ensuring clean visuals, accurate details, and high-quality final outputs.
 
 Tools & Skills: 
 
@@ -39,6 +28,4 @@ Youtube Thumbnile Design, Email Signature, Brusier, Portfolio,
 Vector Design
 Product listing
 Branding & Layout Design
-
-![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/ba23a087d2d29fbd5102cdc66e3f14619e6242fa/Pattern%20illustration%20V06.jpg)
 -->
