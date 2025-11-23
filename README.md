@@ -18,22 +18,14 @@ What’s Included
 
 ✔ Canva & Figma Editable Projects
 
-Design Approach
-
 I combine creativity with a strategic mindset—ensuring every design communicates effectively, follows brand principles, and delivers a polished visual experience. Each folder includes high-quality previews and source files for reference.
 
 Tools & Skills
-
 Adobe Illustrator
-
 Adobe Photoshop
-
 Canva
-
 Figma
-
 Vector Design
-
 Branding & Layout Design
 ![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/ba23a087d2d29fbd5102cdc66e3f14619e6242fa/Pattern%20illustration%20V06.jpg)
 -->
