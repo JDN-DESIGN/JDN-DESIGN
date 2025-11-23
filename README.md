@@ -39,3 +39,9 @@ Branding & Layout Design.
 ✔ Product Listing Graphics
 
 ![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/35d9e88275cd090a51b75e018930ffbb325e4449/Small%20project.jpg)
+
+**PRESENTATION DESIGN**
+✔ Power Point (PPTX)
+✔ Adobe Photoshop, Illustrator
+✔ Canva, Pinterest, Freepic, (Licenence image) 
+![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/fcc146adf8ec5e49101929ae96578f7a323f45e3/PPTX%20presentation.jpg)
