@@ -27,8 +27,15 @@ Branding & Layout Design.
 
 ![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/d9edb1a53f818d6201f129e93606b5bf93aa25ad/JDN%20DESIGN.jpg)
 
-**Profile Link**
+**Freelancer Profile Link**
 
 [Your Link Here](https://www.freelancer.com/u/jewelshah07)
 
--->
+
+✔ Social Media Creatives (posts, ads, banners)
+
+✔ Flyer & Brochure Layouts (A4 & digital formats)
+
+✔ Product Listing Graphics
+
+![image alt](https://github.com/JDN-DESIGN/JDN-DESIGN/blob/35d9e88275cd090a51b75e018930ffbb325e4449/Small%20project.jpg)
