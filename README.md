@@ -27,5 +27,5 @@ Facebook Cover, Header, Profile Design
 Youtube Thumbnile Design, Email Signature, Brusier, Portfolio, 
 Vector Design
 Product listing
-Branding & Layout Design
+Branding & Layout Design.
 -->
