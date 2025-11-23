@@ -6,9 +6,6 @@ This project showcases a curated selection of my professional graphic design wor
 
 ![image alt] (https://github.com/JDN-DESIGN/JDN-DESIGN/blob/30876aba1d1a6502471b2769bdf1a019d487dc5b/Header%20and%20Project%20Alabama%20Map%20illustration.jpg)
 
-Review Link:
-https://www.freelancer.com/projects/graphic-design/Project-for-Mdjuyel-36938612/reviews
-
 I work continuously with a long-term client from Freelancer.com, creating a variety of professional graphics including custom map illustrations, Facebook header designs, and event program layouts. All designs are crafted using Adobe Illustrator, Photoshop, and Canva, ensuring clean visuals, accurate details, and high-quality final outputs.
 
 Tools & Skills: 
