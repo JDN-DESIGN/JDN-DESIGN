@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**JDN-DESIGN/JDN-DESIGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**JDN-DESIGN/JDN-DESIGN**
 
 /source/           # master editable files (AI, PSD, Figma-export, .sketch)
   /ai/             # .ai files
